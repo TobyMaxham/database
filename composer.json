@@ -1,0 +1,28 @@
+{
+
+    "name": "tobymaxham/database",
+    "description": "A package to quickly connect using eloquent.",
+    "keywords": ["tobymaxham", "laravel", "eloquent"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "TobyMaxham",
+            "email": "git2015@maxham.de"
+        }
+    ],
+    "homepage": "http://maxham.de",
+    "support": {
+        "issues": "https://github.com/TobyMaxham/eloquent-connector/issues",
+        "source": "https://github.com/TobyMaxham/eloquent-connector"
+    },
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/database": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "TobyMaxham\\": ""
+        }
+    },
+    "minimum-stability": "dev"
+}
