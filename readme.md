@@ -1,5 +1,9 @@
 
 ## TobyMaxham Database
+[![Latest Stable Version](https://poser.pugx.org/TobyMaxham/database/v/stable.svg)](https://packagist.org/packages/TobyMaxham/database)
+[![Total Downloads](https://poser.pugx.org/TobyMaxham/database/downloads.svg)](https://packagist.org/packages/TobyMaxham/database)
+[![Latest Unstable Version](https://poser.pugx.org/TobyMaxham/database/v/unstable.svg)](https://packagist.org/packages/TobyMaxham/database)
+[![License](https://poser.pugx.org/TobyMaxham/database/license.svg)](https://packagist.org/packages/TobyMaxham/database)
 
 SEE [Illuminate Database](https://github.com/illuminate/database)
 
