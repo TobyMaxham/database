@@ -1,5 +1,5 @@
 
-## TobyMaxham Database
+# TobyMaxham Database
 [![Latest Stable Version](https://poser.pugx.org/TobyMaxham/database/v/stable.svg)](https://packagist.org/packages/TobyMaxham/database)
 [![Total Downloads](https://poser.pugx.org/TobyMaxham/database/downloads.svg)](https://packagist.org/packages/TobyMaxham/database)
 [![Latest Unstable Version](https://poser.pugx.org/TobyMaxham/database/v/unstable.svg)](https://packagist.org/packages/TobyMaxham/database)
@@ -7,7 +7,16 @@
 
 SEE [Illuminate Database](https://github.com/illuminate/database)
 
-# Use
+
+## Installation 
+
+```
+composer require tobymaxham/database
+```
+
+
+## Use
+
 ```php
 TobyMaxham\DBConnector::connect([
 	'host'      => 'localhost',
