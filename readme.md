@@ -28,6 +28,12 @@ TobyMaxham\DBConnector::connect([
 and you'll be done.
 
 
+### Models
+
+
+### Relations
+
+
 ## License
 
 TobyMaxham's Database is licensed under [The MIT License (MIT)](LICENSE).
