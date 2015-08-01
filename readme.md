@@ -7,7 +7,7 @@
 
 SEE [Illuminate Database](https://github.com/illuminate/database)
 
-Quickly use
+# Use
 ```php
 TobyMaxham\DBConnector::connect([
 	'host'      => 'localhost',
