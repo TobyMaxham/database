@@ -7,10 +7,10 @@
     "authors": [
         {
             "name": "TobyMaxham",
-            "email": "git2015@maxham.de"
+            "email": "git2016@maxham.de"
         }
     ],
-    "homepage": "http://maxham.de",
+    "homepage": "https://maxham.de",
     "support": {
         "issues": "https://github.com/TobyMaxham/eloquent-connector/issues",
         "source": "https://github.com/TobyMaxham/eloquent-connector"
